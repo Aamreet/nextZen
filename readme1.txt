@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hey 
 hello
 =======
@@ -43,3 +44,6 @@ if (!('webkitSpeechRecognition' in window)) {
 
      
 }
+=======
+
+>>>>>>> e685f5b456b0225b048867481b32842cde5d99bc

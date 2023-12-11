@@ -61,9 +61,15 @@
   
   .amazon-header-middle-section {
     flex: 1;
+<<<<<<< HEAD
     max-width: 850px;
     margin: 10px;
     padding-top: 12px;
+=======
+    max-width: 750px;
+    margin-left: 10px;
+    margin-right: 70px;
+>>>>>>> e685f5b456b0225b048867481b32842cde5d99bc
     display: flex;
   }
   
